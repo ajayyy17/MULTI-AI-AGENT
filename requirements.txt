@@ -1,5 +1,5 @@
 langchain-groq
-langchain-community
+langchain-community 
 python-dotenv
 uvicorn
 fastapi
